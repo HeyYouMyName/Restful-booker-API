@@ -1,0 +1,6 @@
+BASE_URL = "https://restful-booker.herokuapp.com"
+AUTH_URL = BASE_URL + "/auth"
+GET_BOOKING_IDS_URL = BASE_URL + "/booking"
+CREATE_BOOKING_URL = BASE_URL + "/booking"
+DELETE_BOOKING_URL = BASE_URL + "/booking"
+UPDATE_BOOKING_URL = BASE_URL + "/booking"
